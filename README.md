@@ -23,6 +23,7 @@
  
 ## TO-DO:
   * Upgrade to discord-js v12
+  * Clean/Seperate everything into files
   * Pause/Resume playing
   * Queue
   * Record VC audio
